@@ -7,7 +7,6 @@ const register_route = (router, routes = []) => {
     });
   });
 };
-
 module.exports = {
   register_route
 };
